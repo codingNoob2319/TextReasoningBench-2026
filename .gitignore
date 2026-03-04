@@ -11,6 +11,6 @@ env/
 __pycache__/
 *.pyc
 
-# Datasets and Results (可选：如果你的数据或结果文件太大，建议忽略它们)
+# Datasets and Results
 data/
 results/
